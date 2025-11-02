@@ -3,14 +3,15 @@
 ### Automate AI-powered social media content creation for real estate properties.
 
 ---
+DEMO-https://drive.google.com/file/d/12vVsvuqG0ZFiEU4HgjuvpNLUl_QhqrGS/view?usp=sharing
 
+Flow-https://docs.google.com/document/d/1brkfLRa-qga_xKzCwmQaeIvlOLlEDqcKGmS3OQHVwYk/edit?usp=sharing
 ## 🚀 Overview
 **Insta Content Generator** streamlines the process of creating engaging real estate social media posts using property images.  
 It automates image downloading, enhancement, and AI-powered description generation using the **Google Gemini Vision API**, and produces optimized posts for **Instagram, Facebook, LinkedIn, and Twitter**.
 
 ---
-DEMO-https://drive.google.com/file/d/12vVsvuqG0ZFiEU4HgjuvpNLUl_QhqrGS/view?usp=sharing
-Flow-https://docs.google.com/document/d/1brkfLRa-qga_xKzCwmQaeIvlOLlEDqcKGmS3OQHVwYk/edit?usp=sharing
+
 
 ## ✨ Features
 - 📥 **Batch Image Downloader** — Fetch multiple property images directly from URLs.  
