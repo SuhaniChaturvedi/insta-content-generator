@@ -1,7 +1,3 @@
-# PROPERTY IMAGE AUTOMATION - COMPLETE PYTHON IMPLEMENTATION
-# Author: AI Assistant
-# Date: October 31, 2025
-# Description: Full workflow for collecting, processing, and automating property listings
 
 from dotenv import load_dotenv
 import os
