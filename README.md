@@ -56,4 +56,4 @@ Then open the newly created .env file and add your Google Gemini API key like th
 GEMINI_API_KEY=your-google-gemini-api-key-here
 
 After everything is set up, you can start the project or run the main script using:
-python main.py
+python3 property_automation.py
